@@ -1,6 +1,6 @@
 # NetworkGuardian
 
-![NetworkGuardian Logo](image-url)
+![NetworkGuardian Logo](https://github.com/ucstove/NetworkGuardian/blob/main/Logo%20w_o%20Background.png)
 
 ## Problem Statement
 
