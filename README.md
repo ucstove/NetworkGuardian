@@ -1,6 +1,6 @@
 # NetworkGuardian
 
-<img src="https://githubusercontent.com" alt="NetworkGuardian Logo" width="200">
+<img src="https://github.com/ucstove/NetworkGuardian/blob/main/Logo%20w_o%20Background.png" alt="NetworkGuardian Logo" width="200">
 
 
 ## Problem Statement
